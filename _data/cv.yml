@@ -11,42 +11,34 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor, Computer Science
+      institution: University of Applied Sciences Ulm, Ulm, Germany
+      year: In Progress
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Focus topics:
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Embedded Systems
+            - IT-Scurity
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Dual Student at Nokia
+      institution: Nokia, Ulm
+      year: 2021 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 #- title: Open Source Projects
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Climbing, Skiing, Guitar, Firefighter
