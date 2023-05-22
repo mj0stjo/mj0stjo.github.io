@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Affiliations. Address. Contacts. Moto. Etc.
+subtitle: Few things about me.
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Johannes, a passionate 20-year-old Computer Science student. I believe in harnessing the power of technology to make a positive impact on society.
+Hey, there! I'm Johannes, a passionate 20-year-old Computer Science student. I believe in harnessing the power of technology to make a positive impact on society.
 
 In my studies, I dive into the fascinating world of Computer Science. I specialize in embedded systems and IT security, equipping myself with the skills to tackle complex challenges in our digital landscape.
 
