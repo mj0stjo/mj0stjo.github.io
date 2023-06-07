@@ -10,7 +10,7 @@ email: mj0st.jo@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Just a website about me and the stuff I do.
 footer_text: 
-keywords: tech, computer science # add your own keywords or leave empty
+keywords: tech, computer science, IT # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
