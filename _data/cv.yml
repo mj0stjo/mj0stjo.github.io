@@ -30,13 +30,23 @@
 
 #- title: Open Source Projects
 
-#- title: Academic Interests
-#  type: nested_list
-#  contents:
-#    - title: Topic 1.
-#      items: 
-#        - Description 1.
-#        - Description 2.
+- title: Skills and Interests
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items: 
+        - Java
+        - C++
+        - C
+        - SQL
+        - Python
+    - title: Further Experiences
+      items:
+        - Databases
+        - Algorithms and Datastructures
+        - Embedded Systems
+        - Realtime Systems
+        - Information Security
 
 - title: Other Interests
   type: list
